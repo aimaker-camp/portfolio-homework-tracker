@@ -1,0 +1,16 @@
+/* Notebook paper — lined background, Patrick Hand handwriting */
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  background: #ebe5d0;
+  color: #1a1a3a;
+  font-family: 'Patrick Hand', 'Noto Sans TC', cursive;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+button { font-family: inherit; cursor: pointer; border: none; outline: none; }
+input, select { font-family: inherit; }
