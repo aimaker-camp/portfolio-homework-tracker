@@ -78,7 +78,7 @@ export default function App() {
   return (
     <div className="notebook">
       <header className="nb-bar">
-        <a href="https://ai-class-summer.vercel.app/portfolio" className="nb-back">
+        <a href="https://themakerscamp.com/portfolio" className="nb-back">
           ◀ 回作品集
         </a>
         <span className="nb-date">My Homework Notebook</span>
@@ -196,7 +196,7 @@ export default function App() {
 
       <footer className="nb-foot">
         <p>★ 這個是 AI 做的 ・ 你的孩子上完 4 週課,也能做出自己的版本 ★</p>
-        <a href="https://ai-class-summer.vercel.app/#register" className="cta">
+        <a href="https://themakerscamp.com/#register" className="cta">
           AI 造物營 ▶
         </a>
       </footer>
